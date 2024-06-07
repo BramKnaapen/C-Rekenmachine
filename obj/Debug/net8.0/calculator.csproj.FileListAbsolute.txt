@@ -1,0 +1,14 @@
+C:\School\C#\C# Beginner\Level-3\Error-Error-cc484bc04708-a6291ccd1b49\bin\Debug\net8.0\calculator.exe
+C:\School\C#\C# Beginner\Level-3\Error-Error-cc484bc04708-a6291ccd1b49\bin\Debug\net8.0\calculator.deps.json
+C:\School\C#\C# Beginner\Level-3\Error-Error-cc484bc04708-a6291ccd1b49\bin\Debug\net8.0\calculator.runtimeconfig.json
+C:\School\C#\C# Beginner\Level-3\Error-Error-cc484bc04708-a6291ccd1b49\bin\Debug\net8.0\calculator.dll
+C:\School\C#\C# Beginner\Level-3\Error-Error-cc484bc04708-a6291ccd1b49\bin\Debug\net8.0\calculator.pdb
+C:\School\C#\C# Beginner\Level-3\Error-Error-cc484bc04708-a6291ccd1b49\obj\Debug\net8.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\C#\C# Beginner\Level-3\Error-Error-cc484bc04708-a6291ccd1b49\obj\Debug\net8.0\calculator.AssemblyInfoInputs.cache
+C:\School\C#\C# Beginner\Level-3\Error-Error-cc484bc04708-a6291ccd1b49\obj\Debug\net8.0\calculator.AssemblyInfo.cs
+C:\School\C#\C# Beginner\Level-3\Error-Error-cc484bc04708-a6291ccd1b49\obj\Debug\net8.0\calculator.csproj.CoreCompileInputs.cache
+C:\School\C#\C# Beginner\Level-3\Error-Error-cc484bc04708-a6291ccd1b49\obj\Debug\net8.0\calculator.dll
+C:\School\C#\C# Beginner\Level-3\Error-Error-cc484bc04708-a6291ccd1b49\obj\Debug\net8.0\refint\calculator.dll
+C:\School\C#\C# Beginner\Level-3\Error-Error-cc484bc04708-a6291ccd1b49\obj\Debug\net8.0\calculator.pdb
+C:\School\C#\C# Beginner\Level-3\Error-Error-cc484bc04708-a6291ccd1b49\obj\Debug\net8.0\calculator.genruntimeconfig.cache
+C:\School\C#\C# Beginner\Level-3\Error-Error-cc484bc04708-a6291ccd1b49\obj\Debug\net8.0\ref\calculator.dll
